@@ -10,7 +10,7 @@ function resolve (dir) {
 const config = {
   mode: process.env.NODE_ENV,
 
-  entry: './src/filter.js',
+  entry: './scripts/script.js',
 
   output: {
     path: resolve('./spark-project/scripts'),
