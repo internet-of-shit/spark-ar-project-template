@@ -18,4 +18,6 @@ Use npm to install other plugins.
 
 2. Do your magic in ```/scripts/script.js```.
 
-3. ```npm build``` will bundle your script and paste it to ```/spark-project/scripts/```
+3. ```npm run dev``` will watch for changes and copy automagical to ```/spark-project/scripts/```
+
+4. ```npm run build``` will bundle your script, minimize it and paste it to ```/spark-project/scripts/```
