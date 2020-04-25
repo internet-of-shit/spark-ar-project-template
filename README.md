@@ -1,4 +1,7 @@
 # Spark AR Project Template
+<img src="https://github.com/internet-of-shit/spark-ar-project-template/blob/master/filtericon.png" height="140">
+<!-- pshh. change in the url the repository link to your own -->
+
 Comprehensive template for spark-ar projects. Include your models, images and even use npm and webpack to build your scripts. 
 
 ## Handy Links
